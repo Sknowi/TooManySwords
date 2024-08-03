@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "ingredient",
+  "key": {
+    "#": {
+      "item": "minecraft:shulker_shell"
+    },
+    "X": {
+      "item": "minecraft:end_rod"
+    }
+  },
+  "pattern": [
+    "#",
+    "X",
+    "#"
+  ],
+  "result": {
+    "id": "tms:levitation_core"
+  },
+  "show_notification": true
+}

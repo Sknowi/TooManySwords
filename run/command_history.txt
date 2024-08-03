@@ -1,0 +1,50 @@
+/gamemode survival
+/summon minecraft:pig
+/kill
+/summon minecraft:pig
+/gamemode creative
+/summon minecraft:pillager
+/summon minecraft:pig
+/summon minecraft:pillager
+/summon minecraft:warden
+/summon minecraft:iron_golem
+/summon minecraft:iron_golem\
+/summon minecraft:iron_golem
+/kill @e[type=minecraft:warden]
+/summon minecraft:pig
+/gamemode survival
+/gamemode creative
+/summon minecraft:pig
+/summon minecraft:iron_golem
+/summon minecraft:illusioner
+/summon minecraft:villager
+/summon minecraft:pig
+/summon minecraft:iron_golem
+/gamemode survival
+/gamemode creative
+/summon pig
+/summon minecraft:iron_golem
+/summon minecraft:wandering_trader
+/summon minecraft:warden
+/gamemode survival
+/summon minecraft:pillager
+/gamemode creative
+/gamemode survival
+/summon minecraft:pig
+/gamemode creative
+/summon minecraft:pig
+/summon pig
+/summon minecraft:villager
+/setblock -219 -61 105 minecraft:glass
+/setblock ~ ~ ~ minecraft:glass
+/summon minecraft:warden
+/gamemode survival
+/gamemode creative
+/fill ~ ~ ~ ~-40 ~40 ~ stone replace air
+/fill ~ ~ ~ ~-80 ~40 ~ stone replace air
+/enchant @s minecraft:sharpness 5
+/enchant @s minecraft:knockback 2
+/give @p tms:saddle_sword[enchantments={levels:{"minecraft:knockback":255}}] 1
+/kill
+/summon minecraft:iron_golem
+/summon minecraft:enderman

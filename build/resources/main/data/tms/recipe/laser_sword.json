@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "ingredient",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:redstone"
+    },
+    "X": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "pattern": [
+    "D",
+    "X",
+    "#"
+  ],
+  "result": {
+    "id": "tms:laser_sword_off"
+  },
+  "show_notification": true
+}

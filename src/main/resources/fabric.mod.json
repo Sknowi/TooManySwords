@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "tms",
+  "version": "${version}",
+  "name": "Too Many Swords",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/tms/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "snowy.redstone.tms.client.TooManySwordsClient"
+    ],
+    "main": [
+      "snowy.redstone.tms.TooManySwords"
+    ]
+  },
+  "mixins": [
+    "tms.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

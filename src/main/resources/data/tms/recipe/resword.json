@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "ingredient",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "X": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "pattern": [
+    "D",
+    "X",
+    "#"
+  ],
+  "result": {
+    "id": "tms:resword"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,27 @@
+{
+  "item.tms.cactus_sword": "Cactus Sword",
+  "item.tms.glass_sword": "Glass Sword",
+  "item.tms.water_sword": "Water Sword",
+  "item.tms.lapis_sword": "Lapis Sword",
+  "item.tms.redstone_sword": "Redstone Sword",
+  "item.tms.ice_sword": "Ice Sword",
+  "item.tms.fire_sword": "Fire Sword",
+  "item.tms.lava_sword": "Lava Sword",
+  "item.tms.stone_sword": "Harder Stone Sword",
+  "item.tms.obsidian_sword": "Obsidian Sword",
+  "item.tms.snow_sword": "Snow Sword",
+  "item.tms.levitation_sword": "Levitation Sword",
+  "item.tms.ender_sword": "Ender Sword",
+  "item.tms.unsword": "Unsword",
+  "item.tms.resword": "Resword",
+  "item.tms.eversword": "Eversword",
+  "item.tms.tnt_sword": "TNT Sword",
+  "item.tms.nosword": "Nosword",
+  "item.tms.laser_sword_on": "Laser Sword [ON]",
+  "item.tms.laser_sword_off": "Laser Sword [OFF]",
+  "item.tms.saddle_sword": "Saddle Sword",
+
+  "item.tms.levitation_core": "Levitation Core",
+
+  "itemgroup.tms": "Too Many Swords"
+}

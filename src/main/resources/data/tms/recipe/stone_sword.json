@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:lava_bucket"
+    },
+    "E": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "pattern": [
+    "X E",
+    "X E",
+    " # "
+  ],
+  "result": {
+    "id": "tms:stone_sword"
+  },
+  "show_notification": true
+}
