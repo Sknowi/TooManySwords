@@ -126,6 +126,12 @@ public class ModItems {
             )));
 
 
+    public static final Item HEAVY_SWORD = registerItem("heavy_sword",
+            new HeavySword(ToolMaterials.IRON, new Item.Settings().attributeModifiers(
+                    SwordItem.createAttributeModifiers(ToolMaterials.IRON, 5, -2.8f)
+            )));
+
+
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(LASER_SWORD_ON);
     }

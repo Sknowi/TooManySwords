@@ -33,6 +33,8 @@ public class ModItemGroup {
                         entries.add(ModItems.LASER_SWORD_OFF);
                         entries.add(ModItems.SADDLE_SWORD);
 
+                        entries.add(ModItems.HEAVY_SWORD);
+
                         entries.add(ModItems.UNSWORD);
                         entries.add(ModItems.RESWORD);
                         entries.add(ModItems.EVERSWORD);
