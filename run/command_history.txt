@@ -1,6 +1,3 @@
-/summon minecraft:pig
-/kill
-/summon minecraft:pig
 /gamemode creative
 /summon minecraft:pillager
 /summon minecraft:pig
@@ -48,3 +45,6 @@
 /summon minecraft:iron_golem
 /summon minecraft:enderman
 /enchant @s minecraft:sharpness
+/enchant @s minecraft:sharpness 5
+/enchant @s minecraft:fire_aspect 2
+/enchant @s minecraft:unbreaking 3

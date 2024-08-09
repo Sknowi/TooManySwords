@@ -1,0 +1,31 @@
+{
+  "values": [
+    "tms:obsidian_sword",
+    "tms:glass_sword",
+    "tms:water_sword",
+    "tms:obsidian_sword",
+    "tms:lapis_sword",
+    "tms:redstone_sword",
+    "tms:ice_sword",
+    "tms:lava_sword",
+    "tms:fire_sword",
+    "tms:stone_sword",
+    "tms:snow_sword",
+    "tms:cactus_sword",
+
+    "tms:levitation_sword",
+    "tms:ender_sword",
+    "tms:tnt_sword",
+    "tms:laser_sword_off",
+    "tms:saddle_sword",
+    "tms:obsidian_sword",
+
+    "tms:unsword",
+    "tms:resword",
+    "tms:eversword",
+    "tms:nosword",
+
+    "tms:heavy_sword"
+
+  ]
+}
